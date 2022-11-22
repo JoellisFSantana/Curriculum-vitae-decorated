@@ -1,0 +1,31 @@
+a {
+  color: black;
+}
+
+.fundo {
+  background-color: #fff4cf;
+}
+
+form {
+  color: #ffb200;
+}
+
+h1,
+h3,
+h4 {
+  color: #277bc0;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 8px;
+  border-color: grey;
+  border-bottom: none;
+  width: 30%;
+  opacity: 25%;
+}
+
+p,
+li {
+  color: #ffb200;
+}
